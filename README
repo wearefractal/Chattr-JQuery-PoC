@@ -1,0 +1,6 @@
+
+JQuery Mobile + Now.js + Mongoose Proof of Concept 
+
+
+npm install now
+npm install mongoose
